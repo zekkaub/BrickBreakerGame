@@ -29,7 +29,7 @@ public class Ball : MonoBehaviour
             rb.velocity = Vector3.zero;
             rb.angularVelocity = 0;
         }
-        if (!Play && Input.GetKeyDown(KeyCode.Space))
+        if (!Play && Input.GetTouch(0).phase == TouchPhase.Ended)
         {
             Play = true;
             rb.AddForce(Vector2.up * 350);

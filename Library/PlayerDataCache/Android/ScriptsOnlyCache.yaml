@@ -7,6 +7,16 @@ ScriptsOnlyBuild:
     - Paddle
     - PowerUpMover
     - Scenemanage
+    GitHub.Unity.45.dll:
+    - GitHub.Unity.ApplicationCache
+    - GitHub.Unity.BranchesCache
+    - GitHub.Unity.EnvironmentCache
+    - GitHub.Unity.GitAheadBehindCache
+    - GitHub.Unity.GitLocksCache
+    - GitHub.Unity.GitLogCache
+    - GitHub.Unity.GitStatusCache
+    - GitHub.Unity.RepositoryInfoCache
+    - GitHub.Unity.Window
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
@@ -46,21 +56,21 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11248}
+      Script: {instanceID: 11282}
     - Class: 114
-      Script: {instanceID: 11418}
+      Script: {instanceID: 11452}
     - Class: 114
-      Script: {instanceID: 11458}
+      Script: {instanceID: 11494}
     - Class: 114
-      Script: {instanceID: 11718}
+      Script: {instanceID: 11754}
     - Class: 114
-      Script: {instanceID: 11878}
+      Script: {instanceID: 11922}
     - Class: 114
-      Script: {instanceID: 12290}
+      Script: {instanceID: 12428}
     - Class: 114
-      Script: {instanceID: 12810}
+      Script: {instanceID: 12954}
     - Class: 114
-      Script: {instanceID: 13196}
+      Script: {instanceID: 13352}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -95,21 +105,21 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11248}
+      Script: {instanceID: 11282}
     - Class: 114
-      Script: {instanceID: 11418}
+      Script: {instanceID: 11452}
     - Class: 114
-      Script: {instanceID: 11458}
+      Script: {instanceID: 11494}
     - Class: 114
-      Script: {instanceID: 11718}
+      Script: {instanceID: 11754}
     - Class: 114
-      Script: {instanceID: 11878}
+      Script: {instanceID: 11922}
     - Class: 114
-      Script: {instanceID: 12290}
+      Script: {instanceID: 12428}
     - Class: 114
-      Script: {instanceID: 12810}
+      Script: {instanceID: 12954}
     - Class: 114
-      Script: {instanceID: 13196}
+      Script: {instanceID: 13352}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -152,25 +162,25 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11248}
+      Script: {instanceID: 11282}
     - Class: 114
-      Script: {instanceID: 11418}
+      Script: {instanceID: 11452}
     - Class: 114
-      Script: {instanceID: 11878}
+      Script: {instanceID: 11922}
     - Class: 114
-      Script: {instanceID: 12412}
+      Script: {instanceID: 12550}
     - Class: 114
-      Script: {instanceID: 12482}
+      Script: {instanceID: 12622}
     - Class: 114
-      Script: {instanceID: 12678}
+      Script: {instanceID: 12820}
     - Class: 114
-      Script: {instanceID: 12782}
+      Script: {instanceID: 12926}
     - Class: 114
-      Script: {instanceID: 12810}
+      Script: {instanceID: 12954}
     - Class: 114
-      Script: {instanceID: 13136}
+      Script: {instanceID: 13290}
     - Class: 114
-      Script: {instanceID: 13196}
+      Script: {instanceID: 13352}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
